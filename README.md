@@ -1,2 +1,3 @@
-# Data Scientist - AI - ML - DL
+# Ebook DS
 
+Ebook for Data Scientist, Machine Learning, Deep Learning
